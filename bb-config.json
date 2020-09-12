@@ -5,7 +5,7 @@
    "HOME_BTN_TEXT":"IPTV CAT, Padhaku Chacha TV",
    "HOME_BTN_URL":"http://iptvcat.com,http://www.padhakuchacha.com/page/entertainment/live-tv/search-by/country",
    "SHOW_BANNER_ADS":"true",
-   "SHOW_INTERSTITIAL_ADS":"false",
+   "SHOW_INTERSTITIAL_ADS":"true",
    "ADS_DELAY":"3600",
    "SLIDER_TEXTS":"Busy Box,World of Entertainment,Global Community,Live IPTV,Channels around the World",
    "SLIDER_IMAGES":"https://placeimg.com/640/480/animals, https://placeimg.com/640/480/arch , https://placeimg.com/640/480/nature ,https://placeimg.com/640/480/people, https://placeimg.com/640/480/tech",
