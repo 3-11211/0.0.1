@@ -6,7 +6,7 @@
    "HOME_BTN_URL":"http://iptvcat.com,http://www.padhakuchacha.com/page/entertainment/live-tv/search-by/country",
    "SHOW_BANNER_ADS":"true",
    "SHOW_INTERSTITIAL_ADS":"true",
-   "ADS_DELAY":"60",
+   "ADS_DELAY":"300",
    "SLIDER_TEXTS":"R-Bharat, Busy Box,World of Entertainment,Global Community,Live IPTV,Channels around the World",
    "SLIDER_IMAGES":"https://bharat.republicworld.com/assets/images/livetv/rbharat-logo.png,https://placeimg.com/640/480/animals, https://placeimg.com/640/480/arch , https://placeimg.com/640/480/nature ,https://placeimg.com/640/480/people, https://placeimg.com/640/480/tech",
    "SLIDER_URLS":"https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8, https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8,,,,"
