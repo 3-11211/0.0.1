@@ -4,6 +4,7 @@
    "SKIP_CATEGORY":"XXX",
    "HOME_BTN_TEXT":"IPTV CAT, Padhaku Chacha TV",
    "HOME_BTN_URL":"http://iptvcat.com,http://www.padhakuchacha.com/page/entertainment/live-tv/search-by/country",
+   "HOME_BTN_ACTION":"W,L",
    "SHOW_BANNER_ADS":"true",
    "SHOW_INTERSTITIAL_ADS":"true",
    "ADS_DELAY":"300",
