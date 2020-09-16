@@ -8,7 +8,22 @@
    "SHOW_BANNER_ADS":"true",
    "SHOW_INTERSTITIAL_ADS":"true",
    "ADS_DELAY":"300",
-   "INIT_PRO":"http://iptv-org.github.io/iptv/channels.json",
+   "INIT_PRO":[
+      {
+         "title":"Busy Box",
+         "subTitle":"Explore the world of Entertainment",
+         "logo":null,
+         "isSelected":"true",
+         "url":"http://iptv-org.github.io/iptv/channels.json"
+      },
+      {
+         "title":"USA",
+         "subTitle":"US Live TV channels",
+         "logo":null,
+         "isSelected":"true",
+         "url":"https://raw.githubusercontent.com/Free-IPTV/Countries/master/04_Usa_TV.m3u"
+      }
+   ],
    "SLIDER_TEXTS":"ABP News, R-Bharat,1 Music Channel",
    "SLIDER_IMAGES":"https://www.mumbrella.asia/content/uploads/2019/10/live.png, https://satya-hindi.s3.ap-south-1.amazonaws.com/app/uploads/03-02-19/5c56f3ead9dd8.png, https://i.imgur.com/PRgvj4c.png",
    "SLIDER_URLS":"https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8, https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8, https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8"
