@@ -15,13 +15,6 @@
          "logo":null,
          "isSelected":"true",
          "url":"http://iptv-org.github.io/iptv/channels.json"
-      },
-      {
-         "title":"USA Box",
-         "subTitle":"US Live TV channels",
-         "logo":null,
-         "isSelected":"true",
-         "url":"https://raw.githubusercontent.com/Free-IPTV/Countries/master/04_Usa_TV.m3u"
       }
    ],
    "SLIDER_TEXTS":"ABP News, R-Bharat,1 Music Channel",
