@@ -8,7 +8,7 @@
    "SHOW_BANNER_ADS":"true",
    "SHOW_INTERSTITIAL_ADS":"true",
    "ADS_DELAY":"300",
-   "INIT_PRO":[
+   "INITPRO":[
       {
          "title":"Busy Box",
          "subTitle":"Explore the world of Entertainment",
