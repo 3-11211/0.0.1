@@ -8,7 +8,7 @@
    "SHOW_BANNER_ADS":"true",
    "SHOW_INTERSTITIAL_ADS":"true",
    "ADS_DELAY":"300",
-   "FLASH_CONFIG":"true",
+   "FLASH_CONFIG":"false",
    "INITPRO":[
       {
          "title":"Busy Box",
