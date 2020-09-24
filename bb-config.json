@@ -9,7 +9,9 @@
    "SHOW_INTERSTITIAL_ADS":"true",
    "ADS_DELAY":"300",
    "FLASH_CONFIG":"false",
-   "INIT_PRO":[
+   "VERSION":"0.0.1",
+   "BUILD_NUMBER":"22",
+   "INITPRO":[
       {
          "title":"Busy Box",
          "subTitle":"Explore the world of Entertainment",
