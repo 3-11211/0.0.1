@@ -20,7 +20,7 @@
          "url":"https://firebasestorage.googleapis.com/v0/b/busy-box-b5517.appspot.com/o/providers%2Fchannels.json?alt=media&token=1469a3bc-bdc2-470e-97ec-745504e213f9"
       }
    ],
-   "SLIDER_TEXTS":"ABP News, R-Bharat,1 Music Channel",
-   "SLIDER_IMAGES":"https://i.ytimg.com/vi/Hj2gDcR6kQ4/hqdefault.jpg, https://satya-hindi.s3.ap-south-1.amazonaws.com/app/uploads/03-02-19/5c56f3ead9dd8.png, https://i.imgur.com/PRgvj4c.png",
-   "SLIDER_URLS":"https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8, https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8, https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8"
+   "SLIDER_TEXTS":"Watch Live IPL Match, ABP News, R-Bharat,1 Music Channel",
+   "SLIDER_IMAGES":"https://www.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg, https://i.ytimg.com/vi/Hj2gDcR6kQ4/hqdefault.jpg, https://satya-hindi.s3.ap-south-1.amazonaws.com/app/uploads/03-02-19/5c56f3ead9dd8.png, https://i.imgur.com/PRgvj4c.png",
+   "SLIDER_URLS":"http://103.205.133.44:1935/live/Gtv/playlist.m3u8,https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8, https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8, https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8"
 }
