@@ -6,7 +6,7 @@
    "HOME_BTN_URL":"http://hlscat.com/,http://iptvcat.com,http://www.padhakuchacha.com/page/entertainment/live-tv/search-by/country, https://busyboxapp.blogspot.com/p/faq.html",
    "HOME_BTN_ACTION":"W,W,W,W",
    "SHOW_BANNER_ADS":"true",
-   "SHOW_INTERSTITIAL_ADS":"true",
+   "SHOW_INTERSTITIAL_ADS":"false",
    "ADS_DELAY":"300",
    "FLASH_CONFIG":"false",
    "VERSION":"0.0.1",
