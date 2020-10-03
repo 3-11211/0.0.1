@@ -11,10 +11,10 @@
    "FLASH_CONFIG":"false",
    "VERSION":"0.0.1",
    "BUILD_NUMBER":"22",
-   "ARMEABI_V7A":"https://github.com/3-11211/app/raw/master/app-armeabi-v7a-release.apk",
-   "ARM64_V8A":"https://github.com/3-11211/app/raw/master/app-arm64-v8a-release.apk",
-   "X86_64":"https://github.com/3-11211/app/raw/master/app-x86_64-release.apk",
-   "APK":"https://github.com/3-11211/app/raw/master/app-release.apk",
+   "ARMEABI_V7A":"https://raw.githubusercontent.com/3-11211/app/master/app-armeabi-v7a-release.apk",
+   "ARM64_V8A":"https://raw.githubusercontent.com/3-11211/app/master/app-arm64-v8a-release.apk",
+   "X86_64":"https://raw.githubusercontent.com/3-11211/app/master/app-x86_64-release.apk",
+   "APK":"https://raw.githubusercontent.com/3-11211/app/master/app-release.apk",
    "INIT_PRO":[
       {
          "title":"Busy Box",
