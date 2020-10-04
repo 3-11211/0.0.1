@@ -15,7 +15,7 @@
    "ARM64_V8A":"https://raw.githubusercontent.com/3-11211/app/master/app-arm64-v8a-release.apk",
    "X86_64":"https://raw.githubusercontent.com/3-11211/app/master/app-x86_64-release.apk",
    "APK":"https://raw.githubusercontent.com/3-11211/app/master/app-release.apk",
-   "INIT_PRO":[
+   "INITPRO":[
       {
          "title":"Busy Box",
          "subTitle":"Explore the world of Entertainment",
