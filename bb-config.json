@@ -6,7 +6,7 @@
    "HOME_BTN_URL":"http://hlscat.com/,http://iptvcat.com,http://www.padhakuchacha.com/page/entertainment/live-tv/search-by/country, https://busyboxapp.blogspot.com/p/faq.html",
    "HOME_BTN_ACTION":"W,W,W,W",
    "SHOW_BANNER_ADS":"true",
-   "SHOW_INTERSTITIAL_ADS":"false",
+   "SHOW_INTERSTITIAL_ADS":"true",
    "ADS_DELAY":"300",
    "FLASH_CONFIG":"false",
    "VERSION":"0.0.1",
@@ -15,7 +15,7 @@
    "ARM64_V8A":"https://raw.githubusercontent.com/3-11211/app/master/app-arm64-v8a-release.apk",
    "X86_64":"https://raw.githubusercontent.com/3-11211/app/master/app-x86_64-release.apk",
    "APK":"https://raw.githubusercontent.com/3-11211/app/master/app-release.apk",
-   "INITPRO":[
+   "INIT_PRO":[
       {
          "title":"Busy Box",
          "subTitle":"Explore the world of Entertainment",
