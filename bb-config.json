@@ -2,6 +2,7 @@
    "HOME_TITLE":"Welcome to Busy Box",
    "HOME_DESC":"^^You can play videos form the free sources available on internet or the IPTV provided by the ISP.  ^^Disclaimer : Busy Box does not provide any IPTV links, playlist or channels. In order to use this app you need to have your IPTV or channel link. ^^^^Notice : We (Busy Box) DO NOT host or stream any videos on this website, we only play free Iptv links which are already at public accessible websites. We urge all copyright owners, to recognize that links contained within this site are located somewhere else on the web. Please direct all copyright infringement issues to the companies that host these files.",
    "SKIP_CATEGORY":"XXX",
+   "HOME_BTN_IMG":"http://hlscat.com/res/images/logo_hlscat.png, http://iptvcat.com/res/images/logo_iptvcat.png, http://www.padhakuchacha.com/img/padhakulogo.png, https://1.bp.blogspot.com/-GWWKtuHrf2U/XyMeF-Bm1-I/AAAAAAAAa70/NgRWxdz8haowBBnEXnMZOtAnSSbtuk2GgCPcBGAYYCw/s640/1024-500.png",
    "HOME_BTN_TEXT":"HLS CAT, IPTV CAT, Padhaku Chacha TV, Busy Box FAQ",
    "HOME_BTN_URL":"http://hlscat.com/,http://iptvcat.com,http://www.padhakuchacha.com/page/entertainment/live-tv/search-by/country, https://busyboxapp.blogspot.com/p/faq.html",
    "HOME_BTN_ACTION":"W,W,W,W",
