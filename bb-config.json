@@ -23,6 +23,13 @@
          "logo":"https://www.vdocipher.com/blog/wp-content/uploads/2019/06/1.jpg",
          "isSelected":"true",
          "url":"https://firebasestorage.googleapis.com/v0/b/busy-box-b5517.appspot.com/o/providers%2Fchannels.json?alt=media&token=1469a3bc-bdc2-470e-97ec-745504e213f9"
+      },
+      {
+         "title":"IPTV",
+         "subTitle":"Channels from around the world",
+         "logo":"https://cdn.imgbin.com/15/15/2/imgbin-iptv-television-channel-set-top-box-android-tv-others-DF2m38xx4eCiA2tueA0YjgriF.jpg",
+         "isSelected":"true",
+         "url":"https://iptv-org.github.io/iptv/channels.json"
       }
    ],
    "SLIDER_TEXTS":"Busy Box, Live TV, Channels Around the World, IPTV ,Explore the world of entertainment",
