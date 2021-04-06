@@ -1,0 +1,42 @@
+[
+   {
+      "animalName":"Pigeon",
+      "animalImage":"https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/images/01.jpg",
+      "canFly":true
+   },
+   {
+      "animalName":"Golden Pheasant",
+      "animalImage":"https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/images/02.jpg",
+      "canFly":true
+   },
+   {
+      "animalName":"Long Tailed Finch",
+      "animalImage":"https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/images/03.jpg",
+      "canFly":true
+   },
+   {
+      "animalName":"Antbird",
+      "animalImage":"https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/images/04.jpg",
+      "canFly":true
+   },
+   {
+      "animalName":"Song Thrush",
+      "animalImage":"https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/images/05.jpg",
+      "canFly":true
+   },
+   {
+      "animalName":"Monkey",
+      "animalImage":"https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/images/82.jpg",
+      "canFly":false
+   },
+   {
+      "animalName":"Squrirrel",
+      "animalImage":"https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/images/83.jpg",
+      "canFly":false
+   },
+   {
+      "animalName":"Grizzly Bear",
+      "animalImage":"https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/images/85.jpg",
+      "canFly":false
+   }
+]
