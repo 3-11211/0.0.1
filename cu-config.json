@@ -4,5 +4,5 @@
    "SHOW_BANNER_ADS":"true",
    "SHOW_INTERSTITIAL_ADS":"true",
    "ADS_DELAY":"300",
-   "FLASH_CONFIG":"false",
+   "FLASH_CONFIG":"false"
 }
