@@ -1,0 +1,27 @@
+[
+   {
+      "animalName":"Chidiya",
+      "animalImage":"",
+      "canFly":true
+   },
+   {
+      "animalName":"Eagle",
+      "animalImage":"",
+      "canFly":true
+   },
+   {
+      "animalName":"Crow",
+      "animalImage":"",
+      "canFly":true
+   },
+   {
+      "animalName":"pigeon",
+      "animalImage":"",
+      "canFly":true
+   },
+   {
+      "animalName":"Humans",
+      "animalImage":"",
+      "canFly":false
+   }
+]
