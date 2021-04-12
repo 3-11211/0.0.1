@@ -1,41 +1,49 @@
 [
    {
-      "animalName":"Pigeon",
+      "animalNameEn":"Pigeon",
+      "animalNameHn":"kabootar",
       "animalImage":"https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/images/01.jpg",
       "canFly":true
    },
    {
-      "animalName":"Golden Pheasant",
+      "animalNameEn":"Golden Pheasant",
+      "animalNameHn":"sunaharee teetar",      
       "animalImage":"https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/images/02.jpg",
       "canFly":true
    },
    {
-      "animalName":"Long Tailed Finch",
+      "animalNameEn":"Long Tailed Finch",
+      "animalNameHn":"lambee poonchh vaala chidiya",
       "animalImage":"https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/images/03.jpg",
       "canFly":true
    },
    {
-      "animalName":"Antbird",
+      "animalNameEn":"Antbird",
+      "animalNameHn":"cheentee ka pakshee",
       "animalImage":"https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/images/04.jpg",
       "canFly":true
    },
    {
-      "animalName":"Song Thrush",
+      "animalNameEn":"Song Thrush",
+      "animalNameHn":"gaane wali Chidiya",
       "animalImage":"https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/images/05.jpg",
       "canFly":true
    },
    {
-      "animalName":"Monkey",
+      "animalNameEn":"Monkey",
+      "animalNameHn":"bandar",
       "animalImage":"https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/images/82.jpg",
       "canFly":false
    },
    {
-      "animalName":"Squrirrel",
+      "animalNameEn":"Squirrel",
+      "animalNameHn":"gilaharee",
       "animalImage":"https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/images/83.jpg",
       "canFly":false
    },
    {
-      "animalName":"Grizzly Bear",
+      "animalNameEn":"Grizzly Bear",
+      "animalNameHn":"bhoora bhaaloo",
       "animalImage":"https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/images/85.jpg",
       "canFly":false
    }
