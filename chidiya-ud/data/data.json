@@ -1,1 +1,153 @@
 
+[
+  {
+    "animalNameEn": "Crow",
+    "animalNameHn": "कौआ",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Crow.png",
+    "canFly": true
+  },
+  {
+    "animalNameEn": "Dove",
+    "animalNameHn": "कबूतर",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Pigeons-kabootar.png",
+    "canFly": true
+  },
+  {
+    "animalNameEn": "Peacock",
+    "animalNameHn": "मोर",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Peacock.png",
+    "canFly": true
+  },
+  {
+    "animalNameEn": "Duck",
+    "animalNameHn": "बतख",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Duck.png",
+    "canFly": false
+  },
+  {
+    "animalNameEn": "Sparrow",
+    "animalNameHn": "गौरेया चिड़िया",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Sparrow.png",
+    "canFly": true
+  },
+  {
+    "animalNameEn": "Eagle",
+    "animalNameHn": "चील",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Eagle.png",
+    "canFly": true
+  },
+  {
+    "animalNameEn": "Hen",
+    "animalNameHn": "मुर्गी",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Hen-Murgee.png",
+    "canFly": true
+  },
+  {
+    "animalNameEn": "Eurasian skylark",
+    "animalNameHn": "चकता, अबाबील",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Eurasian.png",
+    "canFly": true
+  },
+  {
+    "animalNameEn": "Kingfisher",
+    "animalNameHn": "राम चिरैया",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Kingfisher.png",
+    "canFly": true
+  },
+  {
+    "animalNameEn": "Myna",
+    "animalNameHn": "मैना",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Myna.png",
+    "canFly": true
+  },
+  {
+    "animalNameEn": "Nightingale",
+    "animalNameHn": "बुलबुल",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Nightingale-Bulbul.png",
+    "canFly": true
+  },
+  {
+    "animalNameEn": "Ostrich",
+    "animalNameHn": "शुतरमुर्ग",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Ostrich-Shutaramurg.png",
+    "canFly": false
+  },
+  {
+    "animalNameEn": "Owl",
+    "animalNameHn": "उल्लु",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/owl-Ullu.png",
+    "canFly": true
+  },
+  {
+    "animalNameEn": "Crane",
+    "animalNameHn": "सारस",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Crane-saaras.png",
+    "canFly": true
+  },
+  {
+    "animalNameEn": "Partridge",
+    "animalNameHn": "तीतर",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Partridge-Teetar.png",
+    "canFly": true
+  },
+  {
+    "animalNameEn": "Parrot",
+    "animalNameHn": "तोता",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Parrot-Tota.png",
+    "canFly": true
+  },
+  {
+    "animalNameEn": "Cock",
+    "animalNameHn": "मुर्गा",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Cock-murga.png",
+    "canFly": false
+  },
+  {
+    "animalNameEn": "Quail",
+    "animalNameHn": "बटेर",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Quail-Bater.png",
+    "canFly": true
+  },
+  {
+    "animalNameEn": "Swan",
+    "animalNameHn": "हंस",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Swan-Hans.png",
+    "canFly": false
+  },
+  {
+    "animalNameEn": "Vulture",
+    "animalNameHn": "गीद्ध",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Vulture-Geedhh.png",
+    "canFly": true
+  },
+  {
+    "animalNameEn": "Cuckoo",
+    "animalNameHn": "कोयल",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Cuckoo-koyal.png",
+    "canFly": true
+  },
+  {
+    "animalNameEn": "Woodpecker",
+    "animalNameHn": "कठफोडवा",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Woodpecker-Kathaphodava.png",
+    "canFly": true
+  },
+  {
+    "animalNameEn": "Wagtail",
+    "animalNameHn": "खंजन",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/wagtail-Khanjan.png",
+    "canFly": true
+  },
+  {
+    "animalNameEn": "Hornbill",
+    "animalNameHn": "धनेश पक्षी",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/Hornbill.png",
+    "canFly": true
+  },
+  {
+    "animalNameEn": "Golden Oriole",
+    "animalNameHn": "पीलक",
+    "animalImage": "https://raw.githubusercontent.com/3-11211/0.0.1/master/chidiya-ud/data/golden-oriole.png",
+    "canFly": true
+  }
+]
