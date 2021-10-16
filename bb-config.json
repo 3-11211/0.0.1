@@ -3,8 +3,8 @@
    "HOME_DESC":"^^You can play videos form the free sources available on internet or the IPTV provided by the ISP.  ^^Disclaimer : Busy Box does not provide any IPTV links, playlist or channels. In order to use this app you need to have your IPTV or channel link. ^^^^Notice : We (Busy Box) DO NOT host or stream any videos on this website, we only play free Iptv links which are already at public accessible websites. We urge all copyright owners, to recognize that links contained within this site are located somewhere else on the web. Please direct all copyright infringement issues to the companies that host these files.",
    "SKIP_CATEGORY":"XXX",
    "HOME_BTN_IMG":" ,  , http://www.padhakuchacha.com/img/padhakulogo.png, https://1.bp.blogspot.com/-GWWKtuHrf2U/XyMeF-Bm1-I/AAAAAAAAa70/NgRWxdz8haowBBnEXnMZOtAnSSbtuk2GgCPcBGAYYCw/s640/1024-500.png",
-   "HOME_BTN_TEXT":"HLS CAT, IPTV CAT, Padhaku Chacha TV, Busy Box FAQ",
-   "HOME_BTN_URL":"http://hlscat.com/,http://iptvcat.com,http://www.padhakuchacha.com/page/entertainment/live-tv/search-by/country, https://busyboxapp.blogspot.com/p/faq.html",
+   "HOME_BTN_TEXT":"Busy Box FAQ",
+   "HOME_BTN_URL":"https://busyboxapp.blogspot.com/p/faq.html",
    "HOME_BTN_ACTION":"W,W,W,W",
    "SHOW_BANNER_ADS":"true",
    "SHOW_INTERSTITIAL_ADS":"true",
@@ -16,22 +16,7 @@
    "ARM64_V8A":"https://raw.githubusercontent.com/3-11211/app/master/app-arm64-v8a-release.apk",
    "X86_64":"https://raw.githubusercontent.com/3-11211/app/master/app-x86_64-release.apk",
    "APK":"https://raw.githubusercontent.com/3-11211/app/master/app-release.apk",
-   "INIT_PRO":[
-      {
-         "title":"Busy Box",
-         "subTitle":"Explore the world of Entertainment",
-         "logo":"https://www.vdocipher.com/blog/wp-content/uploads/2019/06/1.jpg",
-         "isSelected":"false",
-         "url":"https://firebasestorage.googleapis.com/v0/b/busy-box-b5517.appspot.com/o/providers%2Fchannels.json?alt=media&token=1469a3bc-bdc2-470e-97ec-745504e213f9"
-      },
-      {
-         "title":"IPTV",
-         "subTitle":"Channels from around the world",
-         "logo":"https://cdn.imgbin.com/15/15/2/imgbin-iptv-television-channel-set-top-box-android-tv-others-DF2m38xx4eCiA2tueA0YjgriF.jpg",
-         "isSelected":"true",
-         "url":"https://iptv-org.github.io/iptv/channels.json"
-      }
-   ],
+   "INIT_PRO":[],
    "SLIDER_TEXTS":"Busy Box, Live TV, Channels Around the World, IPTV ,Explore the world of entertainment",
    "SLIDER_IMAGES":"https://placeimg.com/640/480/animals,https://placeimg.com/640/480/arch,https://placeimg.com/640/480/nature,https://placeimg.com/640/480/people,https://placeimg.com/640/480/tech",
    "SLIDER_URLS":" , , , , "
