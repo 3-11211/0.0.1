@@ -16,7 +16,17 @@
    "ARM64_V8A":"https://raw.githubusercontent.com/3-11211/app/master/app-arm64-v8a-release.apk",
    "X86_64":"https://raw.githubusercontent.com/3-11211/app/master/app-x86_64-release.apk",
    "APK":"https://raw.githubusercontent.com/3-11211/app/master/app-release.apk",
-   "INIT_PRO":[],
+   "INIT_PRO":[
+{
+         "title":"IPTV",
+         "subTitle":"Channels from around the world",
+         "logo":"https://cdn.imgbin.com/15/15/2/imgbin-iptv-television-channel-set-top-box-android-tv-others-DF2m38xx4eCiA2tueA0YjgriF.jpg",
+         "isSelected":"true",
+         "url":"https://iptv-org.github.io/iptv/channels.json"
+      }
+
+],
+      
    "SLIDER_TEXTS":"Busy Box, Live TV, Channels Around the World, IPTV ,Explore the world of entertainment",
    "SLIDER_IMAGES":"https://placeimg.com/640/480/animals,https://placeimg.com/640/480/arch,https://placeimg.com/640/480/nature,https://placeimg.com/640/480/people,https://placeimg.com/640/480/tech",
    "SLIDER_URLS":" , , , , "
